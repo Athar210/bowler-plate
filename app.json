@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "bloodbankk",
+    "slug": "bloodbankk",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "BloodBank.apk"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
